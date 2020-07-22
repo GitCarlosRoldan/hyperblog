@@ -2,4 +2,6 @@ Este es un archivo de prueba
 
 sobre el curso de Git 
 
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
